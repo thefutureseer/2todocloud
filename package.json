@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/thefutureseer/2todocloud#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongojs": "^3.1.0"
   }
 }
